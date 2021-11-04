@@ -1,0 +1,7 @@
+Cangkir yang terisi adalah cangkir 4
+Hal ini dikarenakan kopi yang masuk pada chamber pertama semakin lama akan semakin banyak
+Terdapat 2 pipeline di chamber pertama dan yang paling rendah adalah yang mengarah ke kiri (cangkir 4 dan 9)
+Kopi yang meluap di chamber pertama akan dialirkan ke Chamber kedua melalui pipeline paling bawah
+Kopi masuk ke chamber 2 dan semakin lama semakin banyak yang tertampung
+Kopi kelamaan meluap melalui pipeline terbawah yang mengalir ke cangkir 4
+Dengan demikian hanya cangkir 4 yang dapat terisi karena hanya pipeline yang mengarah ke cangkir 4 yang dapat dilalui oleh luapan kopi
